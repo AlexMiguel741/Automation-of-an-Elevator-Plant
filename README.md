@@ -7,3 +7,4 @@ the goal was to control an Elevator plant system using ABB automation builder an
 Our team developed, experimented and tested several algorithms for minimization of the travel time based on the number of calls. 
 
 Attached the  full PDF report
+[Click here](https://github.com/AlexMiguel741/Automation-of-an-Elevator-Plant/blob/master/Report%20Elevator%20Group%2014.pdf)
